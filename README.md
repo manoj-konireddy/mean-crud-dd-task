@@ -151,3 +151,15 @@ The following screenshots are included:
 ## 📎 GitHub Repository
 
 https://github.com/manoj-konireddy/mean-crud-dd-task
+
+
+Deployment Note:-
+
+AWS account activation is currently pending as this is a newly created AWS account.
+
+The application is fully containerized using Docker and Docker Compose.
+CI/CD pipeline is implemented using GitHub Actions to automatically build and push Docker images to Docker Hub.
+
+All deployment steps for AWS EC2 are documented in the README file and can be demonstrated immediately once AWS services are activated.
+
+The infrastructure will be created and preserved for real-time demonstration in the next round.
