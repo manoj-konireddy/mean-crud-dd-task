@@ -116,6 +116,8 @@ The following screenshots are included:
 - Application UI
 - EC2 instance details
 
+---
+
 ### Docker Hub Images
 ![Backend Image](./screenshots/dockerhub-backend.png)
 ![Frontend Image](./screenshots/dockerhub-frontend.png)
@@ -135,7 +137,7 @@ The following screenshots are included:
 ### Application UI
 ![UI Working](./screenshots/ui-working.png)
 
----
+
 
 ## ✅ Final Status
 
