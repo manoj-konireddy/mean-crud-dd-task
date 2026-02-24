@@ -44,7 +44,7 @@ docker-compose up --build
 Application will be available at:
 
 http://localhost
-
+```
 ---
 
 ## 📦 Docker Hub Images
