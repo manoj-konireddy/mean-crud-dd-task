@@ -116,26 +116,27 @@ The following screenshots are included:
 - Application UI
 - EC2 instance details
 
----
+<h2>📸 Screenshots</h2>
 
-### Docker Hub Images
-![Backend Image](./screenshots/dockerhub-backend.png)
-![Frontend Image](./screenshots/dockerhub-frontend.png)
+<h3>Docker Hub Images</h3>
+<img src="screenshots/dockerhub-backend.png" width="800"/>
+<br/><br/>
+<img src="screenshots/dockerhub-frontend.png" width="800"/>
 
-### CI/CD Pipeline
-![GitHub Actions](./screenshots/github-actions.png)
+<h3>CI/CD Pipeline</h3>
+<img src="screenshots/github-actions.png" width="800"/>
 
-### Docker Compose Configuration
-![Docker Compose](./screenshots/docker-compose.png)
+<h3>Docker Compose Configuration</h3>
+<img src="screenshots/docker-compose.png" width="800"/>
 
-### Nginx Configuration
-![Nginx Config](./screenshots/nginx-conf.png)
+<h3>Nginx Configuration</h3>
+<img src="screenshots/nginx-conf.png" width="800"/>
 
-### Running Containers
-![Docker PS](./screenshots/docker-ps.png)
+<h3>Running Containers</h3>
+<img src="screenshots/docker-ps.png" width="800"/>
 
-### Application UI
-![UI Working](./screenshots/ui-working.png)
+<h3>Application UI</h3>
+<img src="screenshots/ui-working.png" width="800"/>
 
 
 
