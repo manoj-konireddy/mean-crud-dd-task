@@ -34,9 +34,9 @@ This project includes:
 
 ---
 
-# 🐳 Docker Setup (Local Development)
+🐳 Docker Setup (Local Development)
 
-## 1️⃣ Run Application
+1️⃣ Run Application
 
 ```bash
 docker-compose up --build
