@@ -116,7 +116,7 @@ The following screenshots are included:
 - Application UI
 - EC2 instance details
 
-<img src="screenshots/dockerhub-backend.png" height="800">
+<img src="screenshots/dockerhub-backend.png" height="300">
 
 <img src="screenshots/dockerhub-frontend.png" width="800"/>
 
