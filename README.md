@@ -116,11 +116,8 @@ The following screenshots are included:
 - Application UI
 - EC2 instance details
 
-<h2>📸 Screenshots</h2>
+<img src="screenshots/dockerhub-backend.png" height="800">
 
-<h3>Docker Hub Images</h3>
-<img src="screenshots/dockerhub-backend.png" width="800"/>
-<br/><br/>
 <img src="screenshots/dockerhub-frontend.png" width="800"/>
 
 <h3>CI/CD Pipeline</h3>
