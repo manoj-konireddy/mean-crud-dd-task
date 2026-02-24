@@ -12,10 +12,13 @@ RUN npm run build --prod
 # -------- Production Stage --------
 FROM nginx:alpine
 
-# Remove default nginx website
-RUN rm -rf /usr/share/nginx/html/*
+# Remove default config
+RUN rm /etc/nginx/conf.d/default.conf
 
-# Copy Angular build output to nginx
+# Copy custom nginx config
+COPY nginx.conf /etc/nginx/conf.d/default.conf
+
+# Copy Angular build
 COPY --from=build /app/dist/angular-15-crud /usr/share/nginx/html
 
 EXPOSE 80
